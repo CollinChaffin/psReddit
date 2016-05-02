@@ -1,0 +1,2 @@
+# psReddit
+Reddit Powershell Module
